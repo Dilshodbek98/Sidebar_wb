@@ -8,35 +8,3 @@
   height: 100vh; 
 }
 
-.Sidebar {
-  height: 100vh;
-  width: 250px;
-  background-color: aquamarine;
-  padding-top: 10px;
-}
-
-.sidebar-list {
-  height: auto;
-  width: 100%;
-}
-
-.row {
-  display: flex;
-  width: 100%;
-  height: 50px;
-  list-style-type: none;
-  align-items: center;
-  gap: 30px;
-  padding-left: 10px;
-}
-
-.row .list-icon {
-  font-size: 30px;
-}
-
-.row .list-title{
-  font-size: 30px;
-  text-decoration: none;
-  color: black;
-  align-items: flex-start;
-}
